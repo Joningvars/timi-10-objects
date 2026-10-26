@@ -72,6 +72,7 @@ console.log(matsedill[1].myMapp(myList,(item) => {
 }))
 
 console.log(typeof(matsedill))
+console.log(typeof(matsedill))
 
 function yell(name){
     return name + "!";
